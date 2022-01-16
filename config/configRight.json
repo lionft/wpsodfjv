@@ -1,0 +1,21 @@
+{
+  "OWNER_ADDRESS": "0x19b731220A923B4A3F58EAB4dF8141570430Ce70",
+  "CONTRACT_ADDRESS": "0x1080678a84E558f4A2FF52887DEeEd2Ce42d6c00",
+
+  "SCAN_LINK": "https://polygonscan.com/address/0x1080678a84E558f4A2FF52887DEeEd2Ce42d6c00",
+  "NETWORK": {
+    "NAME": "Polygon Mainnet",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MetaMen Neo",
+  "SYMBOL": "MetaMen Neo",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 65000000000000000000,
+
+  "DISPLAY_COST": 65,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Metaverse",
+  "SHOW_BACKGROUND": true
+}

@@ -1,0 +1,21 @@
+{
+  "OWNER_ADDRESS": "0x19b731220A923B4A3F58EAB4dF8141570430Ce70",
+  "CONTRACT_ADDRESS": "0x481359631DF4821F2001748bC5de1757474c4D9b",
+
+  "SCAN_LINK": "https://polygonscan.com/address/0x481359631DF4821F2001748bC5de1757474c4D9b",
+  "NETWORK": {
+    "NAME": "Polygon Mainnet",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MetaMen Ren",
+  "SYMBOL": "MetaMen Ren",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 65000000000000000000,
+
+  "DISPLAY_COST": 65,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Metaverse",
+  "SHOW_BACKGROUND": true
+}
